@@ -1,4 +1,4 @@
-baseURL = 'https://deigon.com/mental-concoctions'
+baseURL = 'https://mental-concoctions.netlify.app'
 languageCode = 'en-us'
 title = 'Mental Concoctions'
 theme = 'PaperMod'
