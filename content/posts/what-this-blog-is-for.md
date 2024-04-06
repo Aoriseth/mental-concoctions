@@ -1,7 +1,7 @@
 +++
 title = 'What This Blog Is For'
 date = 2024-04-06T19:46:00+11:00
-draft = true
+draft = false
 +++
 
 # Why this blog?
