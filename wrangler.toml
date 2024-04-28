@@ -1,0 +1,8 @@
+name = "mental-concoctions"
+pages_build_output_dir = "./public"
+
+[vars]
+API_KEY = "1234567asdf"
+YARN_VERSION = "1"
+BASE_URL = "https://mental-concoctions.pages.dev"
+HUGO_TIMEOUT = "30s"
